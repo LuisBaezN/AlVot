@@ -18,4 +18,4 @@ The data used to test this algorithm comes from the University of California Irv
 
 # Attention
 
-The full documentation and instructions to run this project will be available soon
+The full documentation and instructions to run this project will be available soon. You can consult the pdf file (spanish) to review the results of the algorithm.
